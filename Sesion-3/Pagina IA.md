@@ -1,4 +1,4 @@
-Link de la pagina: [text](https://vane-amez.github.io/equalyz-ia/paginas/comparador.html)
+Link de la pagina: [text](https://vane-amez.github.io/equalyz-ia/index.html)
 
 Prompt: 
 
